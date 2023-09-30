@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(31, 41, 55);
+    margin: 0;
+}
+.line1{
+    color: white;
+    margin-top: 150px;
+    margin-left: 90px;
+}
+.line2{
+    color: rgb(74, 223, 134);
+    margin-left: 90px;
+    line-height: 1vh;
+}
+.line3{
+    color: white;
+    margin-left: 90px;
+}
+button{
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 90px;
+    background-color: rgb(16, 185, 129);
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 25vh;
+    height: 30px;
+    color: white;
+
+}
+.container{
+    display: flex;
+}
+.value{
+    background:rgb(39, 53, 73) ;
+    padding: 20px;
+    width: 30vh;
+    margin: 20px;
+    margin-left: 90px;
+    border-radius: 5px;
+    color: rgb(85, 249, 145);
+}
+.line4{
+    border-color: rgb(47, 62, 83);
+}
